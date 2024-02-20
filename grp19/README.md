@@ -25,5 +25,5 @@ This website showcases upcoming events for university alumni, allowing them to s
 
 ## Credits
 
-- Developed by
+- Developed by Nicolas Muhigi, Loic Cyusa, Angel Gitego, Umulisa Jolly, Roxanne Niteka
 - Contact: 
