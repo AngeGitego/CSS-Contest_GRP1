@@ -1,4 +1,4 @@
- // JavaScript for form validation and interaction
+// JavaScript for form validation and interaction
 
 document.addEventListener('DOMContentLoaded', function() {
     const form = document.querySelector('form');
